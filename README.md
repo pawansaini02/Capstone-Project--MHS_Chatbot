@@ -1,6 +1,7 @@
 # Capstone-Project--MHS_Chatbot
 
 🧠 JeevaAI – Your Mental Wellness Companion
+
 JeevaAI is a compassionate, AI-powered mental health support chatbot designed to engage users in meaningful and emotionally intelligent conversations. It leverages Google Gemini’s generative power along with sentiment embeddings to offer thoughtful, supportive responses in real time.
 
 🌟 Features
