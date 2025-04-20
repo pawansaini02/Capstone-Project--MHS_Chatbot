@@ -5,6 +5,7 @@
 JeevaAI is a compassionate, AI-powered mental health support chatbot designed to engage users in meaningful and emotionally intelligent conversations. It leverages Google Gemini’s generative power along with sentiment embeddings to offer thoughtful, supportive responses in real time.
 
 🌟 Features
+
 💬 Conversational mental health support powered by Gemini Pro
 
 🧠 Semantic intent matching with BERT-based embeddings
@@ -17,6 +18,7 @@ JeevaAI is a compassionate, AI-powered mental health support chatbot designed to
 
 
 🧠 How JeevaAI Works
+
 User Message → Collected through Streamlit UI.
 
 Semantic Matching → Input vectorized using sentence-transformers.
@@ -30,9 +32,11 @@ Safe Output → Safety levels prevent harmful content.
 Display → Response shown on Streamlit web app.
 
 🕉️ Name Inspiration – JeevaAI (जीवा)
+
 Derived from Sanskrit, Jeeva (जीवा) means “life” or “soul.” JeevaAI represents a virtual companion that brings emotional intelligence and soulful empathy to technology—designed to be your supportive listener during moments of need.
 
 ✅ Use Cases
+
 Mental health journaling support
 
 Empathetic conversation simulator
@@ -42,13 +46,16 @@ Student well-being assistant
 Prototype for research in AI + Psychology
 
 📜 License
+
 This project is licensed under the MIT License.
 
 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 Please open a pull request or drop a suggestion.
 
 📬 Contact
+
 GitHub: @pawansaini02
 
 Email: pawansaini10101@gmail.com
