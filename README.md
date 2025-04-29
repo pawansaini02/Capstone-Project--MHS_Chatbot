@@ -46,6 +46,8 @@
 - 🚨 **Crisis check runs in parallel** to ensure safety
 - 📈 **User can rate the response** to improve model over time
 
+- ![JeevaAI Bannersample_chat.png)
+
 ---
 
 ## 🧪 Evaluation Summary
