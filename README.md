@@ -2,7 +2,7 @@
 
 > ✨ *"Your AI-powered companion for compassionate, anonymous mental wellness support."*
 
-![JeevaAI Banner](.UI-1.png) <!-- Replace with your banner path -->
+![JeevaAI Banner](UI-1.png) <!-- Replace with your banner path -->
 
 ---
 
